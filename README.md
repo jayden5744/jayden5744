@@ -1,8 +1,9 @@
  <a href="mailto:jhs0256@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jhs0256@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/jayden5744/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
-👋 Hi there! I'm A.I. research engineer of AITok.
+👋 Hi there! I'm A.I. research engineer of AITok.<br/>
 I am very interested in speech recognition and natural language processing. 
+
 
 ### 💪 Skills
 #### Platforms & Languages
