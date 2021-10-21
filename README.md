@@ -1,5 +1,8 @@
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=F4D47B&height=300&section=header&text=Jayden&fontSize=90)
+
+ 
  <a href="mailto:jhs0256@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jhs0256@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/jayden5744/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/jayden5744/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a></br>
 
 👋 Hi there! I'm A.I. research engineer of AITok.<br/>
 I am very interested in speech recognition and natural language processing. 
@@ -12,6 +15,9 @@ I am very interested in speech recognition and natural language processing.
 #### Deep Learning Framework
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PytorchLightning-792EE5?style=flat-square&logo=PytorchLightning&logoColor=white"/>
 
+
+
+![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayden5744&show_icons=true&theme=gruvbox  )
 
 
 <!--
